@@ -10,7 +10,7 @@
     $("#datepicker").datepicker({
         changeMonth: true,
         changeYear: true,
-  yearRange: "1942:2001"
+  yearRange: "1942:2017"
 });
     
   } );
